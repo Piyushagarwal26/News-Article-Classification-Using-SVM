@@ -29,5 +29,5 @@ The project involves the following key components:
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository:  git clone https://github.com/Piyushagarwal26/News-Article-Classification-Using-SVM.git
 
