@@ -30,7 +30,11 @@ The project involves the following key components:
 ## Usage
 
 1. Clone the repository:  git clone https://github.com/Piyushagarwal26/News-Article-Classification-Using-SVM.git
-2. Install the required dependencies:
+2. Install the required dependencies:scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
 3. Run the Jupyter notebook `ISPA_Project.ipynb` to execute the code and reproduce the results.
 
 
